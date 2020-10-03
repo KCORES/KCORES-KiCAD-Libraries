@@ -1,4 +1,4 @@
-(module PCI_Express_x4_TH (layer F.Cu) (tedit 5F789BDA)
+(module PCI_Express_x4_TH (layer F.Cu) (tedit 5F789C29)
   (descr "PCI Express GEN 3 Card Edge, Storage and Server Connector, Vertical, Through Hole, x1, 36 Positions, 1.00mm (0.039in) Pitch")
   (fp_text reference REF** (at -7 5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
